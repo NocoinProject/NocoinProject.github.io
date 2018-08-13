@@ -160,7 +160,7 @@ body {
 	 align-items: center;
 	 left: 50%;
 	 transform: translate(-50%, 0);
-	 height: calc(100% + 75px);;
+	 height: calc(100% + 75px);
 	 border-radius: 0 0 15px 15px;
 	 overflow: hidden;
 	 z-index: 2;
