@@ -174,16 +174,12 @@ body {
 	 font-size: 18px;
 	 width: 100%;
 	 text-align: center;
-	 margin-top: -150px;
+	 margin-top: -75px;
 	 
-.animated-button a {
+.animated-button .link {
     text-decoration: none;
 }
 
-.animated-button a .next-button.repeat-password {
-    text-decoration: none;
-}
-
-.animated-button a .next-button.fa {
+.link {
     text-decoration: none;
 }
