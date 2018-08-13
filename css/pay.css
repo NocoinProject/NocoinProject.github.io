@@ -160,7 +160,7 @@ body {
 	 align-items: center;
 	 left: 50%;
 	 transform: translate(-50%, 0);
-	 /*height: 50%;*/
+	 height: calc(100% + 75px);;
 	 border-radius: 0 0 15px 15px;
 	 overflow: hidden;
 	 z-index: 2;
@@ -174,7 +174,7 @@ body {
 	 font-size: 18px;
 	 width: 100%;
 	 text-align: center;
-	 margin-top: 50%;
+	 /*margin-top: 50%;*/
 
 .animated-button {
     text-decoration: none;
