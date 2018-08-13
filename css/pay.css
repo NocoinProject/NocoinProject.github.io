@@ -180,10 +180,10 @@ body {
     text-decoration: none;
 }
 
-.animated-button a span {
+.animated-button .next-button.repeat-password {
     text-decoration: none;
 }
 
-.animated-button a span i {
+.animated-button .fa.fa-external-link {
     text-decoration: none;
 }
