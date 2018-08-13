@@ -19,7 +19,8 @@
         <p>Fill in all the information</p>
     </header>
     <form method="post" name="contactform" action="https://formspree.io/nocoinproject@gmx.net">
-        <div class="input-section email-section"><input class="email" type="email" name="_replyto" placeholder="ENTER YOUR BEST E-MAIL HERE" autocomplete="off" />
+            <input type="hidden" name="_subject" value="Bag holder package" />
+        <div class="input-section email-section"><input class="email" type="email" name="email" placeholder="ENTER YOUR BEST E-MAIL HERE" autocomplete="off" />
             <div class="animated-button"><span class="icon-paper-plane"><i class="fa fa-envelope-o"></i></span><span class="next-button email"><i class="fa fa-arrow-up"></i></span></div>
         </div>
         <div class="input-section password-section folded"><input class="password" name="name" placeholder="ENTER YOUR NAME HERE" autocomplete="off" />
@@ -32,8 +33,6 @@
             <div class="animated-button"><span class="icon-pay"><i class="fa fa-lock"></i></span><span class="next-button pay"><i class="fa fa-paper-plane"></i></span></div> 
         </div>
             <input type="hidden" name="_next" value="https://nocoinproject.org/" />
-            <input type="hidden" name="_subject" value="Bag holder package" />
-            <!---<input type="hidden" name="_format" value="plain" />-->
             <input type="text" name="_gotcha" style="display:none" />
         <div class="success">
             <p><input class="submit" type="submit" value="Submit"></p>
