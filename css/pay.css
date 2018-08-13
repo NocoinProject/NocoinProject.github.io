@@ -174,7 +174,11 @@ body {
 	 font-size: 18px;
 	 width: 100%;
 	 text-align: center;
-	 margin-top: -75px;
+	 margin-top: -250px;
+
+.animated-button {
+    text-decoration: none;
+}	 
 	 
 .animated-button .link {
     text-decoration: none;
@@ -183,3 +187,11 @@ body {
 .link {
     text-decoration: none;
 }
+
+.animated-button .link span{
+    text-decoration: none;
+}	
+	 
+.animated-button .link span i{
+    text-decoration: none;
+}	 
