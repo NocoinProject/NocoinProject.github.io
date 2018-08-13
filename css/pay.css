@@ -125,7 +125,8 @@ body {
  .next {
 	 margin-top: -75px;
 }
- .success {
+/*
+.success {
 	 width: 100%;
 	 position: absolute;
 	 display: flex;
@@ -150,7 +151,7 @@ body {
 	 width: 100%;
 	 text-align: center;
 }
- 
+ */
  .success p input {
 	 width: 100%;
 	 position: absolute;
@@ -178,10 +179,10 @@ body {
     text-decoration: none;
 }
 
-.animated-button span {
+.animated-button a span {
     text-decoration: none;
 }
 
-.animated-button i {
+.animated-button a span i {
     text-decoration: none;
 }
