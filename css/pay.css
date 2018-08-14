@@ -129,7 +129,7 @@ body {
 .success {
 	 width: 100%;
 	 position: absolute;
-	 /*display: flex;
+	 display: flex;
 	 align-items: center;
 	 left: 50%;
 	 transform: translate(-50%, 0);
@@ -140,7 +140,7 @@ body {
 	 box-shadow: 0px 0px 100px rgba(0, 0, 0, 0.2);
 	 transition: all 0.2s ease-in;
 	 background: limegreen;
-	 margin-top: -75px;*/
+	 margin-top: -75px;
 	 	 
 }
 /*
@@ -151,8 +151,8 @@ body {
 	 font-size: 18px;
 	 width: 100%;
 	 text-align: center;
-}
- */
+} */
+
  .success p input {
 	 width: 100%;
 	 position: absolute;
@@ -175,6 +175,7 @@ body {
 	 width: 100%;
 	 text-align: center;
 	 margin-top: -75px;
+}
 
 .animated-button {
     text-decoration: none;
