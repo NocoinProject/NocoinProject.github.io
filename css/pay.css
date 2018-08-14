@@ -9,6 +9,11 @@ body {
          top: 0;
          left: 0;
 }
+
+.container {
+	top: 15%;
+}
+
  .registration-form {
 	 width: 400px;
 	 position: absolute;
