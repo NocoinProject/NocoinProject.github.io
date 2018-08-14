@@ -227,17 +227,23 @@ body {
 }
 
 #pricing header ul {
-  word-spacing: 0px;
+  padding: 0;
+  list-style: none;
   color: #9facb6;
-  font-size: 16px;
-  padding: 0;	
-  list-style: none; 
   text-align: left;
-  line-height: 20px;	
+  line-height: 20px;
 }
 
-#pricing header ul li {
+/*#pricing header ul li {
   padding-bottom: 12px;
+}*/
+
+#pricing header ul li {
+  word-spacing: 0px;
+  color: #9facb6;
+  font-size: 17px;
+  margin: 0;
+  margin-top: 5px;
 }
 
 #pricing header ul i {
