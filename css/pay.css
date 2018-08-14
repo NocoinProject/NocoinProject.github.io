@@ -203,9 +203,8 @@ body {
 
 #pricing h3 {
   font-weight: 400;
-  margin-bottom: 15px;
+  /*margin-bottom: 15px;*/
   font-size: 28px;
-  top: -20px;
 }
 
 #pricing h4 {
@@ -231,7 +230,7 @@ body {
   color: #999;
   text-align: left;
   line-height: 20px;
-  top: -50px;	
+  padding-top: -30px;	
 }
 
 #pricing ul li {
