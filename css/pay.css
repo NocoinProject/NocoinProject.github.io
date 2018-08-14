@@ -192,15 +192,15 @@ body {
 	 background: transparent;
 }
 
-#pricing .box {
+/*#pricing .box {
   padding: 40px;
   margin-bottom: 30px;
   box-shadow: 0px 0px 30px rgba(73, 78, 92, 0.15);
-  /*background: #fff;*/
+  background: #fff;
   text-align: center;
   background: linear-gradient(120grad, #643986, #98aed5);
   border-radius: 15px 15px 15px 15px;
-}
+}*/
 
 #pricing header {
 	 position: relative;
@@ -250,10 +250,10 @@ body {
   padding-right: 4px;
 }
 
-#pricing .featured {
+/*#pricing .featured {
   border: 2px solid #4169e1;
   border-radius: 15px 15px 15px 15px;
-}
+}*/
 /*-------------*/
 
 .animated-button {
