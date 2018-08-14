@@ -201,34 +201,32 @@ body {
 	 box-shadow: 0px 0px 100px rgba(0, 0, 0, 0.2);
 }
 
-#pricing h3 {
-  font-weight: 400;
-  /*margin-bottom: 15px;*/
-  font-size: 24px;
+#pricing header h3 {
   font-weight: 900;
   letter-spacing: 1.5px;
   color: #333;
+  font-size: 23px;
   text-transform: uppercase;
   margin: 0;
 }
 
-#pricing h4 {
+#pricing header h4 {
   font-size: 46px;
   color: #8f8fd6;
   font-weight: 300;
 }
 
-#pricing h4 sup {
+#pricing header h4 sup {
   font-size: 20px;
   top: -20px;
 }
 
-#pricing h4 span {
+#pricing header h4 span {
   color: #bababa;
   font-size: 20px;
 }
 
-#pricing ul {
+#pricing header ul {
   padding: 0;
   list-style: none; 
   word-spacing: 0px;
@@ -239,11 +237,11 @@ body {
   line-height: 20px;	
 }
 
-#pricing ul li {
+#pricing header ul li {
   padding-bottom: 12px;
 }
 
-#pricing ul i {
+#pricing header ul i {
   color: #8f8fd6;
   font-size: 18px;
   padding-right: 4px;
