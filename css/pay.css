@@ -187,7 +187,7 @@ body {
 	 width: 400px;
 	 position: absolute;
 	 left: 50%;
-	 /*transform: translate(-50%, 0%);*/
+	 transform: translate(-50%, 0%);
 	 top: 15%;
 	 background: transparent;
 }
@@ -209,7 +209,7 @@ body {
 
 #pricing h4 {
   font-size: 46px;
-  color: #4169e1;
+  color: #8f8fd6;
   font-weight: 300;
   top: -30px;
 }
@@ -238,7 +238,7 @@ body {
 }
 
 #pricing ul i {
-  color: #4169e1;
+  color: #8f8fd6;
   font-size: 18px;
   padding-right: 4px;
 }
