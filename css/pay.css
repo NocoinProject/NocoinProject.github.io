@@ -10,19 +10,12 @@ body {
          left: 0;
 }
 
-.align {
-	top: 15%;
-	left: 30%;
-	overflow: hidden;
-	display: inline-block;
-}
-
  .registration-form {
 	 width: 400px;
 	 position: absolute;
-	 /*left: 30%;
+	 left: 30%;
 	 transform: translate(-50%, 0%);
-	 top: 15%;*/
+	 top: 15%;
 	 background: transparent;
 	 margin-right: 200px;
 }
@@ -193,9 +186,9 @@ body {
 #pricing {
 	 width: 400px;
 	 position: absolute;
-	 /*left: 70%;
+	 left: 70%;
 	 transform: translate(-20%, 0%);
-	 top: 15%;*/
+	 top: 15%;
 	 background: transparent;
 }
 
