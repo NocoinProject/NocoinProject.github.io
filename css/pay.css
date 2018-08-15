@@ -1,3 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+.boxes {
+    float: left;
+    width: 33.33%;
+    padding: 50px;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
 body {
 	 font-family: "Roboto";
 }
@@ -267,4 +283,3 @@ body {
 .animated-button .link span i{
     text-decoration: none;
 }	 
-
