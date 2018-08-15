@@ -10,15 +10,11 @@ body {
          left: 0;
 }
 
-#space {
-	top: 15%;
-}
-
  .registration-form {
 	 width: 400px;
 	 position: absolute;
-	 /*left: 33%;
-	 transform: translate(-50%, 0%);*/
+	 left: 33%;
+	 /*transform: translate(-50%, 0%);*/
 	 top: 15%;
 	 background: transparent;
 }
@@ -189,7 +185,7 @@ body {
 #pricing {
 	 width: 400px;
 	 position: absolute;
-	 /*left: 66%;
+	 left: 66%;
 	 transform: translate(-50%, 0%);*/
 	 top: 15%;
 	 background: transparent;
