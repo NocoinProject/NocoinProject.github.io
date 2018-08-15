@@ -14,6 +14,7 @@ body {
 	top: 15%;
 	left: 30%;
 	overflow: hidden;
+	display: inline-block;
 }
 
  .registration-form {
