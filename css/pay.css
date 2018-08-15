@@ -17,6 +17,7 @@ body {
 	 transform: translate(-50%, 0%);
 	 top: 15%;
 	 background: transparent;
+	 overflow: hidden;
 }
  .registration-form header {
 	 position: relative;
@@ -189,6 +190,7 @@ body {
 	 transform: translate(-50%, 0%);
 	 top: 15%;
 	 background: transparent;
+       	 overflow: hidden;
 }
 
 #pricing header {
