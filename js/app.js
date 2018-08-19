@@ -35,7 +35,8 @@ particlesJS('particles-js', {
         "nb_sides": 5
       },
       "image": {
-        "src": "https://image.ibb.co/eOUQ68/rundlogo.png",
+        /*"src": "https://image.ibb.co/eOUQ68/rundlogo.png",*/
+        "src": "https://preview.ibb.co/crHdHe/logocut2.gif",
         "width": 100,
         "height": 100
       }
