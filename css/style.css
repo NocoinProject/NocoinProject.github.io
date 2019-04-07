@@ -732,32 +732,32 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 /* Call To Action Section
 --------------------------------*/
-#call-to-action {
+#download {
   overflow: hidden;
   background-color: #4169e1;
   background-size: cover;
   padding: 80px 0;
 }
 
-#call-to-action .cta-title {
+#download .cta-title {
   color: #fff;
   font-size: 28px;
   font-weight: 700;
 }
 
-#call-to-action .cta-text {
+#download .cta-text {
   color: #fff;
 }
 
 @media (min-width: 769px) {
-  #call-to-action .cta-btn-container {
+  #download .cta-btn-container {
     display: flex;
     align-items: center;
     justify-content: flex-end;
   }
 }
 
-#call-to-action .cta-btn {
+#download .cta-btn {
   font-family: "Montserrat", sans-serif;
   font-weight: 500;
   font-size: 16px;
@@ -771,7 +771,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #fff;
 }
 
-#call-to-action .cta-btn:hover {
+#download .cta-btn:hover {
   background: #FFFFFF;
   border: 2px solid #FFFFFF;
   color: #4169e1;
