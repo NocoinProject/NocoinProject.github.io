@@ -785,9 +785,6 @@ body.mobile-nav-active #mobile-nav-toggle {
   background-size: cover;
   padding-top: 80px;
   padding-bottom: 80px;
-  border-left: 20px solid #4169e1;
-  border-right: 20px solid #4169e1;
-  border-bottom: 20px solid #4169e1;
 }
 
 #download2 .cta-title {
