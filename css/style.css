@@ -730,7 +730,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   }
 }
 
-/* Call To Action Section
+/* Download GUI Wallet Section
 --------------------------------*/
 #download {
   overflow: hidden;
@@ -777,6 +777,53 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #4169e1;
 }
 
+  /* Download CLI Wallet Section
+--------------------------------*/
+#download2 {
+  overflow: hidden;
+  background-color: #fff;
+  background-size: cover;
+  padding: 80px 0;
+}
+
+#download2 .cta-title {
+  color: #4169e1;
+  font-size: 28px;
+  font-weight: 700;
+}
+
+#download2 .cta-text {
+  color: #4169e1;
+}
+
+@media (min-width: 769px) {
+  #download .cta-btn-container {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+  }
+}
+
+#download2 .cta-btn {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 8px 30px;
+  border-radius: 25px;
+  transition: background 0.5s;
+  margin: 10px;
+  border: 2px solid #4169e1;
+  color: #4169e1;
+}
+
+#download2 .cta-btn:hover {
+  background: #4169e1;
+  border: 2px solid #4169e1;
+  color: #fff;
+}
+  
 /* More Features Section
 --------------------------------*/
 #more-features {
