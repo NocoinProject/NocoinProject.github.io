@@ -784,7 +784,10 @@ body.mobile-nav-active #mobile-nav-toggle {
   background-color: #fff;
   background-size: cover;
   padding-top: 80px;
-  padding-bottom: 60px;
+  padding-bottom: 80px;
+  border-left: 20px solid #4169e1;
+  border-right: 20px solid #4169e1;
+  border-bottom: 20px solid #4169e1;
 }
 
 #download2 .cta-title {
@@ -823,13 +826,6 @@ body.mobile-nav-active #mobile-nav-toggle {
   background: #4169e1;
   border: 2px solid #4169e1;
   color: #fff;
-}
-  
-#download3 {
-  overflow: hidden;
-  background-color: #4169e1;
-  background-size: cover;
-  padding: 10px 0;
 }
   
 /* More Features Section
