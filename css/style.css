@@ -824,6 +824,53 @@ body.mobile-nav-active #mobile-nav-toggle {
   border: 2px solid #4169e1;
   color: #fff;
 }
+ 
+/* Pool mining guide Section
+--------------------------------*/
+#pmg {
+  overflow: hidden;
+  background-color: #4169e1;
+  background-size: cover;
+  padding: 80px 0;
+}
+
+#pmg .cta-title {
+  color: #fff;
+  font-size: 28px;
+  font-weight: 700;
+}
+
+#pmg .cta-text {
+  color: #fff;
+}
+
+@media (min-width: 769px) {
+  #pmg .cta-btn-container {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+  }
+}
+
+#pmg .cta-btn {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 8px 30px;
+  border-radius: 25px;
+  transition: background 0.5s;
+  margin: 10px;
+  border: 2px solid #fff;
+  color: #fff;
+}
+
+#pmg .cta-btn:hover {
+  background: #FFFFFF;
+  border: 2px solid #FFFFFF;
+  color: #4169e1;
+}
   
 /* More Features Section
 --------------------------------*/
