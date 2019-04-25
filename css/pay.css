@@ -15,24 +15,31 @@ a span {
          left: 0;
 }
 
-@media (min-width: 1280px) {
+@media (min-width: 1330px) {
 	.registration-form {
 		left: 35%;
 		top: 15%;
 	}
 }
 
-@media (min-width: 768px) and (max-width: 1279px) {
+@media (min-width: 1130px) and (max-width: 1329px) {
+	.registration-form {
+		left: 30%;
+		top: 15%;
+	}
+}
+
+@media (min-width: 800px) and (max-width: 1129px) {
 	.registration-form {
 		left: 25%;
 		top: 15%;
 	}
 }
 
-@media (min-width: 320px) and (max-width: 767px) {
+@media (min-width: 320px) and (max-width: 799px) {
 	.registration-form {
 		left: 50%;
-		top: 5%;
+		top: 2%;
 	}
 }
 
@@ -205,24 +212,31 @@ a span {
 }
 
 /*---------*/
-@media (min-width: 1280px){
+@media (min-width: 1330px){
 	.price {
 		left: 65%;
 		top: 15%;
 	}
 }
 
-@media (min-width: 768px) and (max-width: 1279px) {
+@media (min-width: 1130px) and (max-width: 1329px) {
+	.price {
+		left: 70%;
+		top: 15%;
+	}
+}
+
+@media (min-width: 800px) and (max-width: 1129px) {
 	.price {
 		left: 75%;
 		top: 15%;
 	}
 }
 
-@media (min-width: 320px) and (max-width: 767px) {
+@media (min-width: 320px) and (max-width: 799px) {
 	.price {
 		left: 50%;
-		top: 30%;
+		top: 27%;
 	}
 }
 
