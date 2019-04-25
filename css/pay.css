@@ -216,13 +216,15 @@ body {
 }
 
 #pricing header h4 sup {
-  font-size: 20px;
-  top: -20px;
+  font-size: 26px;
+  top: -5px;
+  color: #444;
 }
 
 #pricing header h4 span {
   color: #bababa;
   font-size: 20px;
+  top: -20px;
 }
 
 #pricing header ul {
