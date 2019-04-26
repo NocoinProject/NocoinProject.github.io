@@ -4,7 +4,19 @@ body {
 
 a span {
 	color: #fff !important;
+}
+
+.thanks {
+	left: 50%;
+	top: 5%;
+	
 }	
+
+.thanks header sup {
+	top: -50px;
+	font-size: 20px;
+	
+}
 
  .back {
 	 background: linear-gradient(120grad, #643986, #98aed5);
