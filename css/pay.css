@@ -16,30 +16,30 @@ a span {
 }
 
 @media (min-width: 1330px) {
-	.registration-form {
+	.price {
 		left: 35%;
 		top: 15%;
 	}
 }
 
 @media (min-width: 1130px) and (max-width: 1329px) {
-	.registration-form {
+	.price {
 		left: 30%;
 		top: 15%;
 	}
 }
 
 @media (min-width: 800px) and (max-width: 1129px) {
-	.registration-form {
+	.price {
 		left: 25%;
 		top: 15%;
 	}
 }
 
 @media (min-width: 320px) and (max-width: 799px) {
-	.registration-form {
+	.price {
 		left: 50%;
-		top: 2%;
+		top: 10%;
 	}
 }
 
@@ -213,30 +213,30 @@ a span {
 
 /*---------*/
 @media (min-width: 1330px){
-	.price {
+	.registration-form {
 		left: 65%;
 		top: 15%;
 	}
 }
 
 @media (min-width: 1130px) and (max-width: 1329px) {
-	.price {
+	.registration-form {
 		left: 70%;
 		top: 15%;
 	}
 }
 
 @media (min-width: 800px) and (max-width: 1129px) {
-	.price {
+	.registration-form {
 		left: 75%;
 		top: 15%;
 	}
 }
 
 @media (min-width: 320px) and (max-width: 799px) {
-	.price {
+	.registration-form {
 		left: 50%;
-		top: 27%;
+		top: 90%;
 	}
 }
 
